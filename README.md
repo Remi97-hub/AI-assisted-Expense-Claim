@@ -367,8 +367,8 @@ mandatory claim-blocking amount or policy.
 ### 1. Clone the repository
 
 ``` bash
-git clone <your-github-repository-url>
-cd expense_claims
+git clone https://github.com/Remi97-hub/AI-assisted-Expense-Claim.git
+cd AI-assisted-Expense-Claim
 ```
 
 ### 2. Create a virtual environment
